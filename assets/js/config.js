@@ -1,10 +1,10 @@
-// ASILI SPICES PUBLICATION CONFIGURATION
-// Replace the values below with the official business details.
 window.ASILI_CONFIG = {
-  phoneDisplay: "",
-  phoneInternational: "", // Example format only: 2547XXXXXXXX (digits only)
+  phoneDisplay: "+254 722 658559",
+  phoneInternational: "254722658559",
+  founder: "Ann Kaaria",
+  founderTitle: "Kenyan Researcher & Scientist",
+  location: "Kenya",
   email: "",
-  location: "",
   instagram: "",
   facebook: "",
   tiktok: ""
