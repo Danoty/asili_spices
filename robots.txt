@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://asili-spices-ann-kaaria.danoty1989.chatgpt.site/sitemap.xml
