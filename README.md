@@ -25,3 +25,10 @@ See dist/credits.html for the photo source and licence. Spice photography is ill
 
 ## Verification
 Browser checks at 1440 px and 390 px: no horizontal overflow; images load; category filtering; empty search; product prefill; mobile menu opens and closes. Script syntax and local file/anchor references checked. WhatsApp message construction and field validation checked; no real test enquiry was sent. No claim of a formal accessibility audit, Lighthouse score or measured field performance is made.
+
+## Premium upgrade — 18 November 2026
+Includes a refined editorial hero, consistent colour and typography, two additional licensed photographs, an ingredient enquiry shortlist with add/remove/clear controls, a three-step ordering guide, an expanded factual founder presentation, and reduced-motion-aware section animations. No product packaging or customer endorsements have been fabricated. See OWNER-CONTENT-CHECKLIST.md for owner-supplied material needed to complete the commercial catalogue and policies.
+
+
+Upgrade validation: tested at 1440, 768, 390 and 320 px; no horizontal overflow. Add/remove/clear shortlist controls and enquiry prefill verified. Browser reported no errors. Original logo and portrait SHA-256 hashes match the supplied files. Local reference and WhatsApp-message checks passed. Deployment remains incomplete: the Sites source helper could not resolve git.chatgpt-team.site on the first attempt; a renewed attempt did not complete and was cancelled. No public URL is claimed.
+
